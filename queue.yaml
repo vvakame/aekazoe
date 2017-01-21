@@ -1,0 +1,3 @@
+queue:
+- name: foobar
+  mode: pull
